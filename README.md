@@ -1,2 +1,1 @@
-# BioSensor-SBOL
-SBOL Code
+# Heavy Metal Biosensors
