@@ -1,0 +1,56 @@
+LOCUS       PbrC                    1466 bp    DNA     linear   UNK 04-oct-2021
+ACCESSION   PbrC
+VERSION     PbrC.1  
+FEATURES             Location/Qualifiers
+     promoter        1..35
+     RBS             36..50
+     RBS             43..47
+     misc_feature    36..50
+     RBS             36..50
+     CDS             51..449
+     stem_loop       461..504
+     misc_feature    450..529
+     terminator      450..529
+     promoter        530..623
+     RBS             624..638
+     RBS             631..635
+     misc_feature    624..638
+     RBS             624..638
+     CDS             639..1334
+     CDS             639..1337
+     stem_loop       1349..1392
+     misc_feature    1338..1417
+     terminator      1338..1417
+     stem_loop       1433..1452
+     misc_feature    1459..1459
+     polyA_site      1453..1466
+     misc_feature    1426..1466
+     terminator      1426..1466
+     terminator      1338..1466
+ORIGIN
+        1 tttacagcta gctcagtcct aggtattatg ctagcattaa agaggagaaa atgatgcgga
+       61 tcggtgaact gggcaagaag gcagattgct tggtgcagac cgtgcgcttt tacgagtcag
+      121 aaggcttgct gcccgagcct gcacgtagcg agggcaactt caggctctat gacgaagtcc
+      181 atttgcagcg cttgctgttc atccgccgct gccgggcgaa ggacatgacg ctggatgaga
+      241 tccgtcaact gctgaactta cgggatcggc cagagttggg ctgcggcgag gtgaacgcgc
+      301 tggtcgacgc tcatatcgcg caagtgcgga ccaagatgaa ggaattgcgc gccttggagc
+      361 gcgagttaat ggatctgcga cgctcctgcg atagcgcccg aacctcgcgc gagtgcggca
+      421 ttctcaacag cttggccgag cccgcctgac caggcatcaa ataaaacgaa aggctcagtc
+      481 gaaagactgg gcctttcgtt ttatctgttg tttgtcggtg aacgctctcg gttgcttcct
+      541 ataaaaaact tgactctata tctactagag gttttctaat gatggcatcc ggggaaaacc
+      601 ttgtcaatga agagcgatct atgattaaag aggagaaaat gtcttattca aagcatggca
+      661 tcgtacaaga aatgaagacg aaataccata tggaaggcag tgtcaatggc catgaattta
+      721 cgatcgaagg tgtaggaact gggtaccctt acgaagggaa acagatgtcc gaattagtga
+      781 tcatcaagcc tgcgggaaaa ccccttccat tctcctttga catactgtca tcagtctttc
+      841 aatatggaaa ccgttgcttc acaaagtacc cggcagacat gcctgactat ttcaagcaag
+      901 cattcccaga tggaatgtca tatgaaaggt catttctatt tgaggatgga gcagttgcta
+      961 cagccagctg gaacattcgt ctcgaaggaa attgcttcat ccacaaatcc atctttcatg
+     1021 gcgtaaactt tcccgctgat ggacccgtaa tgaaaaagaa gacaattgac tgggataagt
+     1081 ccttcgaaaa aatgactgtg tctaaagagg tgctaagagg tgacgtgact atgtttctta
+     1141 tgctcgaagg aggtggttct cacagatgcc aatttcactc cacttacaaa acagagaagc
+     1201 cggtcacact gcccccgaat catgtcgtag aacatcaaat tgtgaggacc gaccttggcc
+     1261 aaagtgcaaa aggctttaca gtcaagctgg aagcacatgc cgcggctcat gttaaccctt
+     1321 tgaaggttaa ataataacca ggcatcaaat aaaacgaaag gctcagtcga aagactgggc
+     1381 ctttcgtttt atctgttgtt tgtcggtgaa cgctctctac tagagtcaca ctggctcacc
+     1441 ttcgggtggg cctttctgcg tttata
+//
