@@ -1,5 +1,10 @@
 # Heavy Metal Biosensors
 
+Proyecto: Biosensores bacterianos para la detección de metales pesados en agua de riego agrícola para la agricultura de precisión.
+
+Este documento muestra el listado de archivos del contenedor y su descripción correspondiente.
+
+
 ARCHIVO---------------------------------DESCRIPCION
 
 README.md------------------------------Este archivo de referencia
