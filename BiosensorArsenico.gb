@@ -1,0 +1,71 @@
+LOCUS       ArsSensor               1809 bp    DNA     linear   UNK 02-feb-2022
+ACCESSION   ArsSensor
+VERSION     ArsSensor.1  
+FEATURES             Location/Qualifiers
+     promoter        1..35
+     RBS             36..50
+     RBS             43..47
+     misc_feature    36..50
+     RBS             36..50
+     CDS             51..404
+     misc_feature    51..53
+     misc_feature    402..404
+     misc_feature    310..315
+     CDS             51..407
+     stem_loop       419..462
+     misc_feature    408..487
+     terminator      408..487
+     promoter        488..505
+     RBS             595..599
+     CDS             606..959
+     misc_feature    488..959
+     promoter        488..959
+     RBS             960..974
+     RBS             967..971
+     misc_feature    960..974
+     RBS             960..974
+     CDS             975..1649
+     misc_feature    1656..1680
+     CDS             975..1680
+     stem_loop       1692..1735
+     misc_feature    1681..1760
+     terminator      1681..1760
+     stem_loop       1776..1795
+     misc_feature    1802..1802
+     polyA_site      1796..1809
+     misc_feature    1769..1809
+     terminator      1769..1809
+     terminator      1681..1809
+ORIGIN
+        1 tttacagcta gctcagtcct aggtattatg ctagcattaa agaggagaaa atgtcatttc
+       61 tgttacccat ccaattgttc aaaattcttg ctgatgaaac ccgtctgggc atcgttttac
+      121 tgctcagcga actgggagag ttatgcgtct gcgatctctg cactgctctc gaccagtcgc
+      181 agcccaagat ctcccgccac ctggcattgc tgcgtgaaag cgggctattg ctggaccgca
+      241 agcaaggtaa gtgggttcat taccgcttat caccgcatat tccagcatgg gcggcgaaaa
+      301 ttattgatga ggcctggcga tgtgaacagg aaaaggttca ggcgattgtc cgcaacctgg
+      361 ctcgacaaaa ctgttccggg gacagtaaga acatttgcag ttaataacca ggcatcaaat
+      421 aaaacgaaag gctcagtcga aagactgggc ctttcgtttt atctgttgtt tgtcggtgaa
+      481 cgctctccca actcaaaatt cacacctatt accttcctct gcacttacac attcgttaag
+      541 tcatatatgt ttttgactta tccgcttcga agagagacac tacctgcaac aatcaggagc
+      601 gcaatatgtc atttctgtta cccatccaat tgttcaaaat tcttgctgat gaaacccgtc
+      661 tgggcatcgt tttactgctc agcgaactgg gagagttatg cgtctgcgat ctctgcactg
+      721 ctctcgacca gtcgcagccc aagatctccc gccacctggc attgctgcgt gaaagcgggc
+      781 tattgctgga ccgcaagcaa ggtaagtggg ttcattaccg cttatcaccg catattccag
+      841 catgggcggc gaaaattatt gatgaggcct ggcgatgtga acaggaaaag gttcaggcga
+      901 ttgtccgcaa cctggctcga caaaactgtt ccggggacag taagaacatt tgcagttaaa
+      961 ttaaagagga gaaaatggct tcctccgaag acgttatcaa agagttcatg cgtttcaaag
+     1021 ttcgtatgga aggttccgtt aacggtcacg agttcgaaat cgaaggtgaa ggtgaaggtc
+     1081 gtccgtacga aggtacccag accgctaaac tgaaagttac caaaggtggt ccgctgccgt
+     1141 tcgcttggga catcctgtcc ccgcagttcc agtacggttc caaagcttac gttaaacacc
+     1201 cggctgacat cccggactac ctgaaactgt ccttcccgga aggtttcaaa tgggaacgtg
+     1261 ttatgaactt cgaagacggt ggtgttgtta ccgttaccca ggactcctcc ctgcaagacg
+     1321 gtgagttcat ctacaaagtt aaactgcgtg gtaccaactt cccgtccgac ggtccggtta
+     1381 tgcagaaaaa aaccatgggt tgggaagctt ccaccgaacg tatgtacccg gaagacggtg
+     1441 ctctgaaagg tgaaatcaaa atgcgtctga aactgaaaga cggtggtcac tacgacgctg
+     1501 aagttaaaac cacctacatg gctaaaaaac cggttcagct gccgggtgct tacaaaaccg
+     1561 acatcaaact ggacatcacc tcccacaacg aagactacac catcgttgaa cagtacgaac
+     1621 gtgctgaagg tcgtcactcc accggtgctt aataacgctg atagtgctag tgtagatcgc
+     1681 ccaggcatca aataaaacga aaggctcagt cgaaagactg ggcctttcgt tttatctgtt
+     1741 gtttgtcggt gaacgctctc tactagagtc acactggctc accttcgggt gggcctttct
+     1801 gcgtttata
+//
