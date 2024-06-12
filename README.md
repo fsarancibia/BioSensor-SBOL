@@ -103,5 +103,3 @@ MercurySensorStationaryLowThreshold.gro---Mercury biosensor at steady state 3mg/
 MercurySensorStationaryZeroThreshold.gro--Mercury biosensor at steady state 0mg/L source code in gro
 
 LeadBioSensor.TIC-------------------------Lead biosensor model in TinkerCell
-
-SequencePhotosAllSimulations.zip----------Photographs of all simulations in Time-lapse format
