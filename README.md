@@ -1,108 +1,107 @@
 # Heavy Metal Biosensors
 
-Proyecto: Biosensores bacterianos para la detección de metales pesados en agua de riego agrícola para la agricultura de precisión.
+Project: Bacterial Biosensors for the Detection of Heavy Metals in Agricultural Irrigation Water for Precision Agriculture**
 
-Este documento muestra el listado de archivos del contenedor y su descripción correspondiente.
+This document lists the files in the container and their corresponding descriptions.
 
+FILE---------------------------------------DESCRIPTION
 
-ARCHIVO---------------------------------DESCRIPCION
+README.md----------------------------------This reference file
 
-README.md------------------------------Este archivo de referencia
+AEUBajo-grafico.xlsx-----------------------Arsenic biosensor at steady state 5mg/L output graph in Excel
 
-AEUBajo-grafico.xlsx----------------------Biosensor de arsénico en estado estacionario 5mg/L gráfico de salida en Excel
+AEUBajo.csv--------------------------------Arsenic biosensor at steady state 5mg/L data csv
 
-AEUBajo.csv-------------------------------Biosensor de arsénico en estado estacionario 5mg/L datos csv
+AEUCero-grafico.xlsx-----------------------Arsenic biosensor at steady state 0mg/L output graph in Excel
 
-AEUCero-grafico.xlsx----------------------Biosensor de arsénico en estado estacionario 0mg/L gráfico de salida en Excel
+AEUCero.csv--------------------------------Arsenic biosensor at steady state 0mg/L data csv
 
-AEUCero.csv-------------------------------Biosensor de arsénico en estado estacionario 0mg/L datos csv
+ASENormal-grafico.xlsx---------------------Arsenic biosensor at steady state 10mg/L output graph in Excel
 
-ASENormal-grafico.xlsx--------------------Biosensor de arsénico en estado estacionario 10mg/L gráfico de salida en Excel
+ASENormal.csv------------------------------Arsenic biosensor at steady state 10mg/L data csv
 
-ASENormal.csv-----------------------------Biosensor de arsénico en estado estacionario 10mg/L datos csv
+ASNormal-grafico.xlsx----------------------Arsenic biosensor in growth 10mg/L output graph in Excel
 
-ASNormal-grafico.xlsx---------------------Biosensor de arsénico en crecimiento 10mg/L gráfico de salida en Excel
+ASNormal.csv-------------------------------Arsenic biosensor in growth 10mg/L data csv
 
-ASNormal.csv------------------------------Biosensor de arsénico en crecimiento 10mg/L datos csv
+Arsenic BioSensor.TIC----------------------Arsenic biosensor model in TinkerCell
 
-Arsenic BioSensor.TIC---------------------Biosensor de arsénico modelo en TinkerCell
+ArsenicSensor.gro--------------------------Arsenic biosensor in growth 10mg/L source code in gro
 
-ArsenicSensor.gro-------------------------Biosensor de arsénico en crecimiento 10mg/L código fuente en gro 
+ArsenicSensorEstacionario.gro--------------Arsenic biosensor at steady state 10mg/L source code in gro
 
-ArsenicSensorEstacionario.gro-------------Biosensor de arsénico en estado estacionario 10mg/L código fuente en gro 
+ArsenicSensorEstacionarioUmbralBajo.gro----Arsenic biosensor at steady state 5mg/L source code in gro
 
-ArsenicSensorEstacionarioUmbralBajo.gro---Biosensor de arsénico en estado estacionario 5mg/L código fuente en gro
+ArsenicSensorEstacionarioUmbralCero.gro----Arsenic biosensor at steady state 0mg/L source code in gro
 
-ArsenicSensorEstacionarioUmbralCero.gro---Biosensor de arsénico en estado estacionario 0mg/L código fuente en gro
+BiosensorArsenico.fasta--------------------Arsenic biosensor design in iBioSim FASTA
 
-BiosensorArsenico.fasta-------------------Biosensor de arsénico diseño en iBioSim FASTA
+BiosensorArsenico.gb-----------------------Arsenic biosensor design in iBioSim GenBank
 
-BiosensorArsenico.gb----------------------Biosensor de arsénico diseño en iBioSim GenBank
+BiosensorArsenico.sbol---------------------Arsenic biosensor design in iBioSim SBOL
 
-BiosensorArsenico.sbol--------------------Biosensor de arsénico diseño en iBioSim SBOL
+BiosensorMercurio.fasta--------------------Mercury biosensor design in iBioSim FASTA
 
-BiosensorMercurio.fasta-------------------Biosensor de mercurio diseño en iBioSim FASTA
+BiosensorMercurio.gb-----------------------Mercury biosensor design in iBioSim GenBank
 
-BiosensorMercurio.gb----------------------Biosensor de mercurio diseño en iBioSim GenBank
+BiosensorMercurio.sbol---------------------Mercury biosensor design in iBioSim SBOL
 
-BiosensorMercurio.sbol--------------------Biosensor de mercurio diseño en iBioSim SBOL
+BiosensorLead.fasta-----------------------Lead biosensor design in iBioSim FASTA
 
-BiosensorPlomo.fasta----------------------Biosensor de plomo diseño en iBioSim FASTA
+BiosensorLead.gb--------------------------Lead biosensor design in iBioSim GenBank
 
-BiosensorPlomo.gb-------------------------Biosensor de plomo diseño en iBioSim GenBank
+BiosensorLead.sbol------------------------Lead biosensor design in iBioSim SBOL
 
-BiosensorPlomo.sbol-----------------------Biosensor de plomo diseño en iBioSim SBOL
+LEUBajo.csv--------------------------------Lead biosensor at steady state 5mg/L data csv
 
-LEUBajo.csv-------------------------------Biosensor de plomo en estado estacionario 5mg/L datos csv
+LEUBajografico.xlsx------------------------Lead biosensor at steady state 5mg/L output graph in Excel
 
-LEUBajografico.xlsx-----------------------Biosensor de plomo en estado estacionario 5mg/L gráfico de salida en Excel
+LEUCero-grafico.xlsx-----------------------Lead biosensor at steady state 0mg/L output graph in Excel
 
-LEUCero-grafico.xlsx----------------------Biosensor de plomo en estado estacionario 0mg/L gráfico de salida en Excel
+LEUCero.csv--------------------------------Lead biosensor at steady state 0mg/L data csv
 
-LEUCero.csv-------------------------------Biosensor de plomo en estado estacionario 0mg/L datos csv
+LSENormal-grafico.xlsx---------------------Lead biosensor at steady state 10mg/L output graph in Excel
 
-LSENormal-grafico.xlsx--------------------Biosensor de plomo en estado estacionario 10mg/L gráfico de salida en Excel
+LSENormal.csv------------------------------Lead biosensor at steady state 10mg/L data csv
 
-LSENormal.csv-----------------------------Biosensor de plomo en estado estacionario 10mg/L datos csv
+LSNormal-grafico.xlsx----------------------Lead biosensor in growth 10mg/L output graph in Excel
 
-LSNormal-grafico.xlsx---------------------Biosensor de plomo en crecimiento 10mg/L gráfico de salida en Excel
+LSNormal.csv-------------------------------Lead biosensor in growth 10mg/L data csv
 
-LSNormal.csv------------------------------Biosensor de plomo en crecimiento 10mg/L datos csv
+LeadSensor.gro-----------------------------Lead biosensor in growth 10mg/L source code in gro
 
-LeadSensor.gro----------------------------Biosensor de plomo en crecimiento 10mg/L código fuente en gro 
+LeadSensorEstacionario.gro-----------------Lead biosensor at steady state 10mg/L source code in gro
 
-LeadSensorEstacionario.gro----------------Biosensor de plomo en estado estacionario 10mg/L código fuente en gro 
+LeadSensorEstacionarioUmbralBajo.gro-------Lead biosensor at steady state 5mg/L source code in gro
 
-LeadSensorEstacionarioUmbralBajo.gro------Biosensor de plomo en estado estacionario 5mg/L código fuente en gro 
+LeadSensorEstacionarioUmbralCero.gro-------Lead biosensor at steady state 0mg/L source code in gro
 
-LeadSensorEstacionarioUmbralCero.gro------Biosensor de plomo en estado estacionario 0mg/L código fuente en gro 
+MEUBajo-grafico.xlsx-----------------------Mercury biosensor at steady state 3mg/L output graph in Excel
 
-MEUBajo-grafico.xlsx----------------------Biosensor de mercurio en estado estacionario 3mg/L gráfico de salida en Excel
+MEUBajo.csv--------------------------------Mercury biosensor at steady state 3mg/L data csv
 
-MEUBajo.csv-------------------------------Biosensor de mercurio en estado estacionario 3mg/L datos csv
+MEUCero-grafico.xlsx-----------------------Mercury biosensor at steady state 0mg/L output graph in Excel
 
-MEUCero-grafico.xlsx----------------------Biosensor de mercurio en estado estacionario 0mg/L gráfico de salida en Excel
+MEUCero.csv--------------------------------Mercury biosensor at steady state 0mg/L data csv
 
-MEUCero.csv-------------------------------Biosensor de mercurio en estado estacionario 3mg/L datos csv
+MSENormal-grafico.xlsx---------------------Mercury biosensor at steady state 6mg/L output graph in Excel
 
-MSENormal-grafico.xlsx--------------------Biosensor de mercurio en estado estacionario 6mg/L gráfico de salida en Excel
+MSENormal.csv------------------------------Mercury biosensor at steady state 6mg/L data csv
 
-MSENormal.csv-----------------------------Biosensor de mercurio en estado estacionario 6mg/L datos csv
+MSNormal-grafico.xlsx----------------------Mercury biosensor in growth 6mg/L output graph in Excel
 
-MSNormal-grafico.xlsx---------------------Biosensor de mercurio en crecimiento 6mg/L gráfico de salida en Excel
+MSNormal.csv-------------------------------Mercury biosensor in growth 6mg/L data csv
 
-MSNormal.csv------------------------------Biosensor de mercurio en ecrecimiento 6mg/L datos csv
+Mercurio BioSensor.TIC---------------------Mercury biosensor model in TinkerCell
 
-Mercurio BioSensor.TIC--------------------Biosensor de mercurio modelo en TinkerCell
+MercurySensor.gro--------------------------Mercury biosensor in growth 6mg/L source code in gro
 
-MercurySensor.gro-------------------------Biosensor de mercurio en crecimiento 6mg/L código fuente en gro
+MercurySensorEstacionario.gro--------------Mercury biosensor at steady state 6mg/L source code in gro
 
-MercurySensorEstacionario.gro-------------Biosensor de mercurio en estado estacionario 6mg/L código fuente en gro
+MercurySensorEstacionarioUmbralBajo.gro----Mercury biosensor at steady state 3mg/L source code in gro
 
-MercurySensorEstacionarioUmbralBajo.gro---Biosensor de mercurio en estado estacionario 3mg/L código fuente en gro
+MercurySensorEstacionarioUmbralCero.gro----Mercury biosensor at steady state 0mg/L source code in gro
 
-MercurySensorEstacionarioUmbralCero.gro---Biosensor de mercurio en estado estacionario 0mg/L código fuente en gro
+Lead BioSensor.TIC------------------------Lead biosensor model in TinkerCell
 
-Plomo BioSensor.TIC-----------------------Biosensor de plomo modelo en TinkerCell
-
-Fotos de secuencia de todas las simulaciones.zip---Fotografias de todas las simulaciones en formato Time-lapse
+Fotos de secuencia de todas las simulaciones.zip---Photographs of all simulations in Time-lapse format
