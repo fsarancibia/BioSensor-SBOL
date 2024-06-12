@@ -8,23 +8,23 @@ FILE------------------------------------DESCRIPTION
 
 README.md-------------------------------This reference file
 
-AEULow-graph.xlsx-----------------------Arsenic biosensor at steady state 5mg/L output graph in Excel
+AEULowGraph.xlsx------------------------Arsenic biosensor at steady state 5mg/L output graph in Excel
 
 AEULow.csv------------------------------Arsenic biosensor at steady state 5mg/L data csv
 
-AEUZero-graph.xlsx----------------------Arsenic biosensor at steady state 0mg/L output graph in Excel
+AEUZeroGraph.xlsx-----------------------Arsenic biosensor at steady state 0mg/L output graph in Excel
 
 AEUZero.csv-----------------------------Arsenic biosensor at steady state 0mg/L data csv
 
-ASENormal-graph.xlsx--------------------Arsenic biosensor at steady state 10mg/L output graph in Excel
+ASENormalGraph.xlsx---------------------Arsenic biosensor at steady state 10mg/L output graph in Excel
 
 ASENormal.csv---------------------------Arsenic biosensor at steady state 10mg/L data csv
 
-ASNormal-graph.xlsx---------------------Arsenic biosensor in growth 10mg/L output graph in Excel
+ASNormalGraph.xlsx----------------------Arsenic biosensor in growth 10mg/L output graph in Excel
 
 ASNormal.csv----------------------------Arsenic biosensor in growth 10mg/L data csv
 
-Arsenic BioSensor.TIC-------------------Arsenic biosensor model in TinkerCell
+ArsenicBioSensor.TIC--------------------Arsenic biosensor model in TinkerCell
 
 ArsenicSensor.gro-----------------------Arsenic biosensor in growth 10mg/L source code in gro
 
@@ -104,4 +104,4 @@ MercurySensorStationaryZeroThreshold.gro--Mercury biosensor at steady state 0mg/
 
 LeadBioSensor.TIC-------------------------Lead biosensor model in TinkerCell
 
-Sequence photos of all simulations.zip----Photographs of all simulations in Time-lapse format
+SequencePhotosAllSimulations.zip----------Photographs of all simulations in Time-lapse format
