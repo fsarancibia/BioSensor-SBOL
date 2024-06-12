@@ -4,7 +4,7 @@ Project: Bacterial Biosensors for the Detection of Heavy Metals in Agricultural 
 
 This document lists the files in the container and their corresponding descriptions.
 
-FILE---------------------------------------DESCRIPTION
+**FILE**------------------------------------**DESCRIPTION**
 
 README.md----------------------------------This reference file
 
@@ -46,11 +46,11 @@ BiosensorMercurio.gb-----------------------Mercury biosensor design in iBioSim G
 
 BiosensorMercurio.sbol---------------------Mercury biosensor design in iBioSim SBOL
 
-BiosensorLead.fasta-----------------------Lead biosensor design in iBioSim FASTA
+BiosensorPlomo.fasta-----------------------Lead biosensor design in iBioSim FASTA
 
-BiosensorLead.gb--------------------------Lead biosensor design in iBioSim GenBank
+BiosensorPlomo.gb--------------------------Lead biosensor design in iBioSim GenBank
 
-BiosensorLead.sbol------------------------Lead biosensor design in iBioSim SBOL
+BiosensorPlomo.sbol------------------------Lead biosensor design in iBioSim SBOL
 
 LEUBajo.csv--------------------------------Lead biosensor at steady state 5mg/L data csv
 
@@ -102,6 +102,6 @@ MercurySensorEstacionarioUmbralBajo.gro----Mercury biosensor at steady state 3mg
 
 MercurySensorEstacionarioUmbralCero.gro----Mercury biosensor at steady state 0mg/L source code in gro
 
-Lead BioSensor.TIC------------------------Lead biosensor model in TinkerCell
+Plomo BioSensor.TIC------------------------Lead biosensor model in TinkerCell
 
 Fotos de secuencia de todas las simulaciones.zip---Photographs of all simulations in Time-lapse format
