@@ -68,6 +68,8 @@ LSNormalGraph.xlsx-----------------------Lead biosensor in growth 10mg/L output 
 
 LSNormal.csv-----------------------------Lead biosensor in growth 10mg/L data csv
 
+LeadBioSensor.TIC-------------------------Lead biosensor model in TinkerCell
+
 LeadSensor.gro---------------------------Lead biosensor in growth 10mg/L source code in gro
 
 LeadSensorStationary.gro-----------------Lead biosensor at steady state 10mg/L source code in gro
@@ -101,5 +103,3 @@ MercurySensorStationary.gro---------------Mercury biosensor at steady state 6mg/
 MercurySensorStationaryLowThreshold.gro---Mercury biosensor at steady state 3mg/L source code in gro
 
 MercurySensorStationaryZeroThreshold.gro--Mercury biosensor at steady state 0mg/L source code in gro
-
-LeadBioSensor.TIC-------------------------Lead biosensor model in TinkerCell
